@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About Project 
+
+Signup / signin page - authenticated via firebase email authentication.
+Authenticated user will be directed to a restricted Dashboard where he can add notes or save photos, or mark them as facvourite.
+
